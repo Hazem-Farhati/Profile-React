@@ -1,0 +1,41 @@
+.facebook{
+    height: 40px;
+    width: 40px;
+    margin: 350px 20px;
+    position: absolute;
+}
+.insta{
+    height: 40px;
+    width: 40px;
+    margin: 400px 20px;
+    position: absolute;
+
+}
+
+.gmail{
+    height: 40px;
+    width: 40px;
+    margin: 450px 20px;
+    position: absolute;
+
+}
+.fbTexte{
+    color: aliceblue;
+    margin: 358px 70px;
+    position: absolute;
+    font-size: 20px;
+}
+.instaTexte{
+    color: aliceblue;
+    color: aliceblue;
+    margin: 409px 70px;
+    position: absolute;
+    font-size: 20px;
+}
+.gmailTexte{
+    color: aliceblue;
+    color: aliceblue;
+    margin: 458px 70px;
+    position: absolute;
+    font-size: 20px;
+}
